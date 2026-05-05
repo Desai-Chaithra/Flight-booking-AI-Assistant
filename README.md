@@ -1,5 +1,5 @@
 ***NOTE***
-DEAR USERS,
+DEAR USERS,\n\n
     if you're following this code, then make sure to do these steps to get everything right.
     1. Create an API key in platform.openai.com
     2. Copy the API key and create a .env file in project folder.
